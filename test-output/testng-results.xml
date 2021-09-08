@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-02T17:00:45 IST" name="Default suite" finished-at="2021-09-02T17:01:22 IST" duration-ms="37347">
+    <groups>
+    </groups>
+    <test started-at="2021-09-02T17:00:45 IST" name="Default test" finished-at="2021-09-02T17:01:22 IST" duration-ms="37347">
+      <class name="com.Hybridframework.runner.Runner">
+        <test-method is-config="true" signature="intilize()[pri:0, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:00:45 IST" name="intilize" finished-at="2021-09-02T17:00:50 IST" duration-ms="4565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilize -->
+        <test-method signature="testdata(java.lang.String)[pri:0, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:00:50 IST" name="testdata" data-provider="exceldata" finished-at="2021-09-02T17:00:56 IST" duration-ms="5672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method signature="testdata(java.lang.String)[pri:0, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:00:56 IST" name="testdata" data-provider="exceldata" finished-at="2021-09-02T17:01:01 IST" duration-ms="4949" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pens]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method signature="testdata(java.lang.String)[pri:0, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:01:01 IST" name="testdata" data-provider="exceldata" finished-at="2021-09-02T17:01:07 IST" duration-ms="5707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[books]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method signature="validatingtitle()[pri:0, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:01:07 IST" name="validatingtitle" finished-at="2021-09-02T17:01:09 IST" duration-ms="2544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingtitle -->
+        <test-method signature="validateitem()[pri:1, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:01:09 IST" name="validateitem" finished-at="2021-09-02T17:01:20 IST" duration-ms="10332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateitem -->
+        <test-method signature="signinclick()[pri:2, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:01:20 IST" name="signinclick" finished-at="2021-09-02T17:01:22 IST" duration-ms="2364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinclick -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:01:22 IST" name="close" finished-at="2021-09-02T17:01:22 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="test()[pri:0, instance:com.Hybridframework.runner.Runner@bccb269]" started-at="2021-09-02T17:01:22 IST" name="test" finished-at="2021-09-02T17:01:29 IST" duration-ms="6451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.Hybridframework.runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

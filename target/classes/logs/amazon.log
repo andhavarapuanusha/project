@@ -1,0 +1,135 @@
+2021-09-02 10:00:29,733  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 10:00:36,432  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 10:00:42,252  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 10:00:47,744  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 10:00:50,417  INFO [main] DriverClass:89 - clicked on title
+ 2021-09-02 10:01:05,631  INFO [main] DriverClass:69 - clicked
+ 2021-09-02 10:01:06,841  INFO [main] DriverClass:77 - clicked on link
+ 2021-09-02 10:01:06,939  INFO [main] DriverClass:79 - sended keys
+ 2021-09-02 10:01:07,949  INFO [main] DriverClass:81 - submitted
+ 2021-09-02 11:07:40,505  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 11:08:18,617  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 11:08:28,831  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 11:08:37,343  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 11:08:40,739  INFO [main] DriverClass:89 - clicked on title
+ 2021-09-02 11:09:27,808  INFO [main] DriverClass:69 - clicked
+ 2021-09-02 11:09:30,248  INFO [main] DriverClass:77 - clicked on link
+ 2021-09-02 11:09:30,379  INFO [main] DriverClass:79 - sended keys
+ 2021-09-02 11:09:31,420  INFO [main] DriverClass:81 - submitted
+ 2021-09-02 12:23:44,319  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 12:25:17,719  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 12:25:28,343  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:25:41,769  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:25:49,728  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:25:56,434  INFO [main] DriverClass:89 - clicked on title
+ 2021-09-02 12:26:33,637  INFO [main] DriverClass:69 - clicked
+ 2021-09-02 12:26:38,841  INFO [main] DriverClass:77 - clicked on link
+ 2021-09-02 12:26:38,937  INFO [main] DriverClass:79 - sended keys
+ 2021-09-02 12:26:40,223  INFO [main] DriverClass:81 - submitted
+ 2021-09-02 12:37:23,856  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 12:37:36,478  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:37:48,313  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:38:04,697  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:38:13,129  INFO [main] DriverClass:89 - clicked on title
+ 2021-09-02 12:39:04,787  INFO [main] DriverClass:69 - clicked
+ 2021-09-02 12:39:10,390  INFO [main] DriverClass:77 - clicked on link
+ 2021-09-02 12:39:10,495  INFO [main] DriverClass:79 - sended keys
+ 2021-09-02 12:39:12,422  INFO [main] DriverClass:81 - submitted
+ 2021-09-02 12:43:49,716  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 12:43:57,625  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:44:03,662  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:44:11,195  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:44:15,670  INFO [main] DriverClass:89 - clicked on title
+ 2021-09-02 12:44:34,082  INFO [main] DriverClass:77 - clicked on link
+ 2021-09-02 12:44:34,225  INFO [main] DriverClass:79 - sended keys
+ 2021-09-02 12:44:35,509  INFO [main] DriverClass:81 - submitted
+ 2021-09-02 12:48:26,417  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 12:48:36,289  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:48:44,168  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:48:55,248  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 12:49:00,309  INFO [main] DriverClass:89 - clicked on title
+ 2021-09-02 12:51:34,508  INFO [main] DriverClass:77 - clicked on link
+ 2021-09-02 12:51:34,610  INFO [main] DriverClass:79 - sended keys
+ 2021-09-02 12:51:36,920  INFO [main] DriverClass:81 - submitted
+ 2021-09-02 16:40:22,411  INFO [main] DriverClass:28 - intilized driver
+ 2021-09-02 16:40:28,909  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 16:40:34,025  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 16:40:39,087  INFO [main] DriverClass:40 - sending keys
+ 2021-09-02 16:40:41,524  INFO [main] DriverClass:89 - clicked on title
+ 2021-09-02 16:40:52,330  INFO [main] DriverClass:77 - clicked on link
+ 2021-09-02 16:40:52,418  INFO [main] DriverClass:79 - sended keys
+ 2021-09-02 16:40:53,344  INFO [main] DriverClass:81 - submitted
+ 2021-09-02 16:44:27,113  INFO [main] DriverClass:30 - intilized driver
+ 2021-09-02 16:44:33,982  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 16:44:39,500  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 16:44:45,145  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 16:44:47,219  INFO [main] DriverClass:91 - clicked on title
+ 2021-09-02 16:44:59,487  INFO [main] DriverClass:79 - clicked on link
+ 2021-09-02 16:44:59,587  INFO [main] DriverClass:81 - sended keys
+ 2021-09-02 16:45:00,501  INFO [main] DriverClass:83 - submitted
+ 2021-09-02 16:51:00,114  INFO [main] DriverClass:30 - intilized driver
+ 2021-09-02 16:51:06,149  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 16:51:11,261  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 16:51:16,985  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 16:51:19,286  INFO [main] DriverClass:91 - clicked on title
+ 2021-09-02 16:51:28,626  INFO [main] DriverClass:79 - clicked on link
+ 2021-09-02 16:51:28,863  INFO [main] DriverClass:81 - sended keys
+ 2021-09-02 16:51:29,692  INFO [main] DriverClass:83 - submitted
+ 2021-09-02 17:00:50,011  INFO [main] DriverClass:30 - intilized driver
+ 2021-09-02 17:00:56,644  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 17:01:01,598  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 17:01:07,308  INFO [main] DriverClass:42 - sending keys
+ 2021-09-02 17:01:09,858  INFO [main] DriverClass:91 - clicked on title
+ 2021-09-02 17:01:20,195  INFO [main] DriverClass:71 - clicked
+ 2021-09-02 17:01:21,534  INFO [main] DriverClass:79 - clicked on link
+ 2021-09-02 17:01:21,617  INFO [main] DriverClass:81 - sended keys
+ 2021-09-02 17:01:22,560  INFO [main] DriverClass:83 - submitted
+ 2021-09-03 12:35:14,898  INFO [main] DriverClass:25 - intilized driver
+ 2021-09-03 12:35:24,646  INFO [main] DriverClass:35 - clicked
+ 2021-09-03 12:35:28,820  INFO [main] DriverClass:40 - sending keys
+ 2021-09-03 12:36:56,627  INFO [main] DriverClass:25 - intilized driver
+ 2021-09-03 12:37:03,992  INFO [main] DriverClass:35 - clicked
+ 2021-09-03 12:37:08,155  INFO [main] DriverClass:40 - sending keys
+ 2021-09-03 12:42:27,252  INFO [main] DriverClass:25 - intilized driver
+ 2021-09-03 12:42:34,842  INFO [main] DriverClass:35 - clicked
+ 2021-09-03 12:42:39,055  INFO [main] DriverClass:40 - sending keys
+ 2021-09-03 12:44:16,039  INFO [main] DriverClass:25 - intilized driver
+ 2021-09-03 12:44:23,668  INFO [main] DriverClass:35 - clicked
+ 2021-09-03 12:44:27,847  INFO [main] DriverClass:40 - sending keys
+ 2021-09-08 14:29:23,909  INFO [main] DriverClass:31 - intilized driver
+ 2021-09-08 14:29:32,966  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 14:29:39,283  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 14:29:45,541  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 14:29:49,828  INFO [main] DriverClass:92 - clicked on title
+ 2021-09-08 14:30:13,515  INFO [main] DriverClass:72 - clicked
+ 2021-09-08 14:30:17,366  INFO [main] DriverClass:80 - clicked on link
+ 2021-09-08 14:30:17,488  INFO [main] DriverClass:82 - sended keys
+ 2021-09-08 14:30:18,593  INFO [main] DriverClass:84 - submitted
+ 2021-09-08 14:52:41,746  INFO [main] DriverClass:31 - intilized driver
+ 2021-09-08 14:52:50,249  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 14:53:32,079  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 14:54:18,182  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 14:54:29,561  INFO [main] DriverClass:92 - clicked on title
+ 2021-09-08 14:56:10,485  INFO [main] DriverClass:72 - clicked
+ 2021-09-08 14:56:16,721  INFO [main] DriverClass:80 - clicked on link
+ 2021-09-08 14:56:16,822  INFO [main] DriverClass:82 - sended keys
+ 2021-09-08 14:56:18,008  INFO [main] DriverClass:84 - submitted
+ 2021-09-08 15:26:18,628  INFO [main] DriverClass:31 - intilized driver
+ 2021-09-08 15:26:25,059  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 15:26:30,396  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 15:26:36,761  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 15:26:39,585  INFO [main] DriverClass:92 - clicked on title
+ 2021-09-08 15:26:57,397  INFO [main] DriverClass:72 - clicked
+ 2021-09-08 15:26:59,099  INFO [main] DriverClass:80 - clicked on link
+ 2021-09-08 15:26:59,187  INFO [main] DriverClass:82 - sended keys
+ 2021-09-08 15:27:00,109  INFO [main] DriverClass:84 - submitted
+ 2021-09-08 15:27:47,888  INFO [main] DriverClass:31 - intilized driver
+ 2021-09-08 15:27:55,062  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 15:28:05,539  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 15:28:12,318  INFO [main] DriverClass:43 - sending keys
+ 2021-09-08 15:28:16,940  INFO [main] DriverClass:92 - clicked on title
+ 2021-09-08 15:28:29,446  INFO [main] DriverClass:72 - clicked
+ 2021-09-08 15:28:31,265  INFO [main] DriverClass:80 - clicked on link
+ 2021-09-08 15:28:31,377  INFO [main] DriverClass:82 - sended keys
+ 2021-09-08 15:28:32,226  INFO [main] DriverClass:84 - submitted
+ 
